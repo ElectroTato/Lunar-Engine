@@ -1,0 +1,1 @@
+This folder is for most of the base-game audio and menu songs.
